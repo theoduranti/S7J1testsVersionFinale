@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Tuto installation :
+- Sur ta machine : ```git init``` puis ```git clone https://github.com/theoduranti/S7J1testsVersionFinale```
+- Dans ce nouveau dossier : ```bundle install --without production``` <br/><br/>
+=> All right, tu peux commencer la correction
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Travail effectué :
+#### Done :
+- Première partie de l'exercice : création de l'application
+- Début de la seconde partie : premier test
+#### Pas done :
+- Le reste de la seconde partie (les autres tests)
