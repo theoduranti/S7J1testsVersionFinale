@@ -1,0 +1,11 @@
+<h1>PageClub#show</h1>
+<% @users = User.all %>
+<% if user_signed_in? %>
+    <% @users.each do |user| %>
+        <%= user.first_name %><br/>
+        <%= user.last_name %><br/>
+        <%= user.email %><br/>
+    <% end %>
+<% else %>
+    <p>Sign In ou Sign Up pour accéder au contenu de cette page</p>
+<% end %>
