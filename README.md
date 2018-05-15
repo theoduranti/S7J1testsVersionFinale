@@ -2,7 +2,7 @@
 
 ### Tuto installation :
 - Sur ta machine : ```git init``` puis ```git clone https://github.com/theoduranti/S7J1testsVersionFinale```
-- Dans ce nouveau dossier : ```bundle install --without production``` <br/><br/>
+- Dans ce nouveau dossier : ```bundle install --without production``` puis ```rails db:migrate```<br/><br/>
 => All right, tu peux commencer la correction
 
 ### Travail effectué :
